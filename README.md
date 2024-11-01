@@ -1,5 +1,7 @@
 # Automated-Cleaning-Module
-This is just a simple version that automates single-step cleaning steps using the system's already open interfaces. In addition to this, we have designed a cleaning module that enables fully automated cleaning tasks. Please contact us for more information.
+This automatic cleaning script for c-trap equipment enables dosage control of cleaning reagents and automatic start/stop.
+
+This is just a simple version that automates single-step cleaning steps using the system's already open interfaces. We have also designed a cleaning module that enables fully automated cleaning tasks. Please contact us for more information.
 
 Our Email:
 
